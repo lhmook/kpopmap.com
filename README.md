@@ -1,7 +1,7 @@
 # Kpopmap Server Architecture  
 ### Next.js + Spring Boot + WordPress
 
-> 🇰🇷 한국어 / 🇺🇸 English  
+> 🇰🇷 한국어 / [🇺🇸 English](README_EN.md)
 > This repository documents the server architecture strategy of the Kpopmap project.
 
 ---
