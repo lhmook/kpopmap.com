@@ -17,8 +17,6 @@ All content handled by Kpopmap follows these principles:
 - ❌ No illegal crawling
 - ❌ No unauthorized copying
 - ❌ No unlicensed RSS scraping
-- ✅ **Collection via official news APIs and permitted web sources**
-- ✅ **Secondary content generated through Kpopmap’s own processing pipeline**
 
 Content published on Kpopmap is **not a raw reproduction of source material**,  
 but a transformed and processed result created under Kpopmap’s own editorial and technical standards.
