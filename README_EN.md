@@ -1,5 +1,5 @@
 ## Project Overview
-
+[kr REAME](README.md)
 This repository documents the **server architecture and design philosophy** of the Kpopmap project.
 
 Kpopmap is not a simple news aggregation site.  
@@ -91,4 +91,4 @@ Python services never write directly to WordPress.
 ---
 
 ## 🇺🇸 Architecture Diagram
-
+![Diagram](diagram2.drawio.png)
