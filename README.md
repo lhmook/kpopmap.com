@@ -2,6 +2,7 @@
 ### Next.js + Spring Boot + WordPress
 
 > 🇰🇷 한국어 / [🇺🇸 English](README_EN.md)
+> 
 > This repository documents the server architecture strategy of the Kpopmap project.
 
 ---
@@ -102,4 +103,4 @@ Python 서비스는 WordPress에 직접 쓰기 작업을 수행하지 않습니�
 ---
 
 ## 🇰🇷 아키텍처 다이어그램
-
+![다이어그램](diagram2.drawio.png)
