@@ -1,5 +1,6 @@
 ## Project Overview
 [kr REAME](README.md)
+
 This repository documents the **server architecture and design philosophy** of the Kpopmap project.
 
 Kpopmap is more than just a news consumption site. 
